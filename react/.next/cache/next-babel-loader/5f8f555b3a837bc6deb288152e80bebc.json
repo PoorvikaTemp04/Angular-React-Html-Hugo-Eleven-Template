@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function throttle(fn, interval) {\n  var pending = false;\n  return function () {\n    if (pending) return;\n    pending = true;\n    fn.apply(void 0, arguments);\n    setTimeout(function () {\n      return pending = false;\n    }, interval);\n  };\n}","map":null,"metadata":{},"sourceType":"module"}

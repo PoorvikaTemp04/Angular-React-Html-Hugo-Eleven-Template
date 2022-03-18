@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport MapMarkers from '../../components/MapMarkers';\n\nvar MapMarkersPage = function MapMarkersPage() {\n  return __jsx(MapMarkers, null);\n};\n\nexport default MapMarkersPage;","map":null,"metadata":{},"sourceType":"module"}

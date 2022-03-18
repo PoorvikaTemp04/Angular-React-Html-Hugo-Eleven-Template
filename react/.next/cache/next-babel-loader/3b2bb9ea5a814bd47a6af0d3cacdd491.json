@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Table from \"../../demos/Reactstrap/TablesPage\";\n\nvar TablePage = function TablePage() {\n  return __jsx(Table, null);\n};\n\nexport default TablePage;","map":null,"metadata":{},"sourceType":"module"}

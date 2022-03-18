@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport JumbotronPage from \"../../demos/Reactstrap/JumbotronPage\";\n\nvar Jumbotron = function Jumbotron() {\n  return __jsx(JumbotronPage, null);\n};\n\nexport default Jumbotron;","map":null,"metadata":{},"sourceType":"module"}

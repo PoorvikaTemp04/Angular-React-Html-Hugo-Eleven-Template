@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport ListGroupPage from \"../../demos/Reactstrap/ListGroupPage\";\n\nvar ListGroup = function ListGroup() {\n  return __jsx(ListGroupPage, null);\n};\n\nexport default ListGroup;","map":null,"metadata":{},"sourceType":"module"}

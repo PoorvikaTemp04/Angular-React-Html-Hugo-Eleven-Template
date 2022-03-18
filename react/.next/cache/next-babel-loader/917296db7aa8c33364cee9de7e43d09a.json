@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Taskboard from '../components/Taskboard';\n\nvar TaskboardPage = function TaskboardPage() {\n  return __jsx(Taskboard, null);\n};\n\nexport default TaskboardPage;","map":null,"metadata":{},"sourceType":"module"}

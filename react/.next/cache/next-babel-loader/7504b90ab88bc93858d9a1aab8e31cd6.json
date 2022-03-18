@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Charts from '../components/Charts';\n\nvar ChartsPage = function ChartsPage() {\n  return __jsx(Charts, null);\n};\n\nexport default ChartsPage;","map":null,"metadata":{},"sourceType":"module"}

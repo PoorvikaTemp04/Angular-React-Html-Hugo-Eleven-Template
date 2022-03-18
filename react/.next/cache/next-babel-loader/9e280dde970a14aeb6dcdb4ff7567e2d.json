@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Grid from '../components/Grid';\n\nvar GridPage = function GridPage() {\n  return __jsx(Grid, null);\n};\n\nexport default GridPage;","map":null,"metadata":{},"sourceType":"module"}

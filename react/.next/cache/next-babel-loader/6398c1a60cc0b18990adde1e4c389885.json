@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Calendar from '../components/Calendar';\n\nvar CalendarPage = function CalendarPage() {\n  return __jsx(Calendar, null);\n};\n\nexport default CalendarPage;","map":null,"metadata":{},"sourceType":"module"}

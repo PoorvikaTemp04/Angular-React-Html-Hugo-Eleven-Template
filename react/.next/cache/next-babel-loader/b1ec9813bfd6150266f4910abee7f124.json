@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Invoice from '../../components/Invoice';\n\nvar InvoicePage = function InvoicePage() {\n  return __jsx(Invoice, null);\n};\n\nexport default InvoicePage;","map":null,"metadata":{},"sourceType":"module"}

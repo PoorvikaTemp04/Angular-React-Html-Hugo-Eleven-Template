@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Forgot from '../components/Forgot';\n\nvar ForgotPage = function ForgotPage() {\n  return __jsx(Forgot, null);\n};\n\nexport default ForgotPage;","map":null,"metadata":{},"sourceType":"module"}
